@@ -162,7 +162,7 @@ span {
 }
 .bns-paln-list{
     margin-right: 24px;
-    width: calc((100% - 72px) / 4);
+    flex-basis:calc((100% - 72px) / 4);
 }
 .bns-paln-list:last-child{
 margin-right: 0;
