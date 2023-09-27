@@ -204,7 +204,7 @@ margin-right: 0;
 }
 .team-list{
     display: flex; 
-    gap:40px;
+    gap:24px;
 }
 .team-title {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -226,7 +226,7 @@ margin-right: 0;
 .mark{
     padding: 32px 0;
 }
-.team-list-item {
+.team-list-item{
   background: var(--WHITE, #fff);
   margin-right: 24px;
 
@@ -308,7 +308,7 @@ margin-bottom: 0;}
   background: var(--NAVY-BLUE, #2e2f42);
   padding: 100px 0;
 }
-.logo footer{
+.footer-logo{
 display: inline-block;
 margin-bottom: 16px;}
 .footer-text {
